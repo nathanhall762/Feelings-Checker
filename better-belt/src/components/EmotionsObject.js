@@ -42,7 +42,7 @@ const EmotionsObject = {
       "Bored": ["Apathetic", "Indifferent"],
       "Busy": ["Pressured", "Rushed"],
       "Stressed": ["Overwhelmed", "Out of control"],
-      "Tired": ["Sleepy", "Unenergetic"],
+      "Tired": ["Sleepy", "Unfocussed"],
     },
   };
   
